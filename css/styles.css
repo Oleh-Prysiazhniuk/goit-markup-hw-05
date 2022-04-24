@@ -490,7 +490,6 @@ img {
 .clients-item>a:hover,
 .clients-item>a:focus {
   border: 1px solid var(--accent-color);
-  cursor: pointer;
 }
 
 .clients-item>a:hover .clients-logo,
